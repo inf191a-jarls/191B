@@ -9,27 +9,29 @@ Weekly Meeting
 
 All meetings will be held at Samir Sachdevas house. Our alternative meeting destination will take place in the ICS Labs, Floor 3
 
-Tuesdays and Thursdays, 7 PM - 8:50 PM
+Sundays, 3 PM – 6 PM, Wednesdays 11am – 12pm
 
-Saturdays and Sundays, Time is upon advanced notice
+Saturdays Time is upon advanced notice
 
 Co-Working Times
 
 All meetings will be held at Samir Sachdeva's house. Our alternative meeting destination will take place in the ICS Labs, Floor 3
 
-Mondays 10 AM - 2 PM: All
+Mondays 11 AM - 2 PM: All
 
 Tuesdays 7 PM - 8:50 PM: All
 
 Thursdays 7 PM - 8:50 PM: All
 
-Fridays 10 AM - 2 PM: All
+Fridays 11 AM - 2 PM: All
 
 Saturdays 10 AM - 2 PM: All
 
+Sundays 10 AM - 2 PM: All
+
 File Management
 
-We will be using GitHub for file management and file version.
+We will be using Google Drive for file management and file version.
 
 We will also be holding physical copies of any programming we do just in case an error occurs. Each version will be stored by all of us.
 
