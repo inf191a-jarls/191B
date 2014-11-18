@@ -10,7 +10,7 @@ The user will:
 + Be physically capable of using a computer
 + Have basic knowledge of using a computer and navigating the internet
 + Have the required tools and services to access the internet (Computer, monitor, mouse, keyboard, internet connection)
-+ Have an installed web browser with current up-to-date capabilities (i.e. CSS3 / HTML5 / Javascript support)
++ Have an installed web browser with current up-to-date capabilities
 + Be a teacher or an associate of a teacher for students with down syndrome 
 
 ## Functional requirements
