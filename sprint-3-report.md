@@ -32,3 +32,13 @@
 <p> Replace dummy content with actual content </p>
 <p> Similarize style (fonts, colors, etc.) of that of DSFOC's website
 <p> </p>
+
+<h1> Next 2 Weeks </h1>
+
+<blockquote>
+<p> Retrieve information/resources from Dana </p>
+<p> Seek help from 19 particular members of the organization to implement resources into web page </p>
+<p> Make a few touches to the Learn and Forums page for more efficient usability </p>
+<p> Replace dummy content with actual content from resources supplied by Dana </p>
+<p> User testing </p>
+<p> More group bonding </p>
