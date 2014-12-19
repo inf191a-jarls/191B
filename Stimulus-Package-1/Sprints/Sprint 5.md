@@ -8,7 +8,7 @@ Original List:
 <p>documentation to add content
 <p>documentation for blogs and forums
 <p>Fix child premise at bottom of the pages
-
+<p><p>
 Finished Taks:
 <p>Documentation to add users
 <p>find pictures to use for links in front page
