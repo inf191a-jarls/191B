@@ -1,0 +1,59 @@
+#Sprint 4 - Report
+
+<h1> Initial Tasks </h1>
+ 
+<blockquote>
+<p> Meet as a group in person to discuss website content and code</p>
+<p> Get familiar with wordpress</p>
+<p> Set up all pages</p>
+<p> All pages have dummy info</p>
+<p> Show Dana what we have so far</p>
+<p> Connect to DSFOC server</p>
+<p> Import wiki content from Dana into website </p>
+<p> Show Tao what we have so far</p>
+<p> More group bonding </p>
+<p> Finish Home page</p>
+<p> Add buttons to Home page </p>
+<p> Change Learn page to Teach page </p>
+<p> Have two sections on Teach Page </p>
+
+<h1> Completed Tasks </h1>
+
+<blockquote>
+<p> Meet as a group in person to discuss website content and code</p>
+<p> Setup our server </p>
+<p> Setup local SQL database </p>
+<p> Setup PHPmyadmin </p>
+<p> Show Tao our completed progress</p>
+<p> Complete all pages with dummy info </p>
+<p> Get Dana's approval of progressing website</p>
+<p> Finish Home page</p>
+<p> Add buttons to Home page </p>
+<p> Change Learn page to Teach page </p>
+<p> Have two sections on Teach Page </p>
+<p> Similarize style (fonts, colors, etc.) of that of DSFOC's website
+<p> Completed home page
+<p> took off bottom error code
+<p> made it mobile compatible
+<p> completed documentation to add user privelages
+<p> completed documentation for forums and blogs
+<p> completed documentation to add resources to website
+
+<h1> Not Completed Tasks </h1>
+
+<blockquote>
+<p> Have not uploaded all information onto the server</p>
+<p> Import wiki content from Dana and committee into website </p>
+<p> Replace dummy content with actual content </p>
+<p> stylizing website
+<p> </p>
+
+<h1> Next 2 Weeks </h1>
+
+<blockquote>
+<p> Retrieve information/resources from Dana </p>
+<p> Seek help from 19 particular members of the organization to implement resources into web page </p>
+<p> Make a few touches to the Learn and Forums page for more efficient usability </p>
+<p> Replace dummy content with actual content from resources supplied by Dana </p>
+<p> User testing </p>
+<p> More group bonding </p>
